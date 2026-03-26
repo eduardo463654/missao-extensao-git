@@ -13,3 +13,8 @@
 
 -javajs
 console.log('hello World');
+
+#cheklist
+
+-[x]Tarefa feita
+-[]Tarefa pedente
