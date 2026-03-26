@@ -13,3 +13,7 @@
 
 -javajs
 console.log('hello World');
+
+-cheklist
+[x] tarefa feita
+[] tarefa pedente
